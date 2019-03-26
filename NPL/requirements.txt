@@ -1,0 +1,8 @@
+numpy
+h5py
+pandas
+jupyter
+nltk
+spacy
+gensim
+nlpnet
